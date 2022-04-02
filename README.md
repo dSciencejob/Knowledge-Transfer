@@ -7,4 +7,5 @@ But does distilling the knowledge in a neural network give an imporoved result w
 # References
 
 https://keras.io/examples/vision/knowledge_distillation/
+
 https://arxiv.org/abs/1503.02531
