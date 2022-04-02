@@ -1,3 +1,3 @@
 # Intro
 
-## Knowledge Distillation 
+Knowledge Distillation 
