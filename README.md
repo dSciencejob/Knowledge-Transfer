@@ -10,5 +10,4 @@ https://keras.io/examples/vision/knowledge_distillation/
 
 https://arxiv.org/abs/1503.02531
 
-https://happywhale.com
-
+https://www.happywhale.com
